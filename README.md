@@ -1,184 +1,102 @@
-<!-- HEADER / BANNER -->
-<div align="center">
+<h1 align="center">SEU NOME AQUI 🔥!</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e293b,100:38bdf8&text=SEU_NOME%20HERE&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Designer%20%7C%20Developer%20%7C%20Creative%20Mind&descAlignY=58&descSize=16"/>
+<h3 align="center">Namaste 🙏 Eu sou [SEU NOME]</h3>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Josh%20The%20Boss&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Life%20=%20Love;%20for(Live%20in%20Alive):%20print(Alive)%20else:%20print(Live)&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- TYPING -->
-<div align="center">
+## 👋 Sobre Mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Master+Profile+Here+%F0%9F%94%A5;Design+%2B+Code+%2B+Motion;Building+beautiful+digital+things;Welcome+to+my+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="profile views"/>
 
-</div>
+- 🌟 Comecei a jornada com desenvolvimento de software em [SUA STACK INICIAL, ex: ASP.NET MVC]
+- 💻 Trabalho com Front-end e web design quando estou de folga, focando em Data Science e IA/ML
+- 🎓 Atualmente cursando [SEU CURSO / ÁREA]
+- 🛠️ Tenho experiência com [SUAS TECNOLOGIAS PRINCIPAIS]
+- 💬 Me pergunte sobre [SEUS TÓPICOS DE INTERESSE]
+- ⚡ Interesse em Inteligência Artificial, Machine Learning, Deep Learning, Data Science e Automação
+- ✨ Eu só gosto de perfeição
 
----
+### 🌐 Me siga em:
 
-<h2 align="center">Namaste 🙏 I'm <strong>SEU_NOME</strong></h2>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20Views&color=38bdf8&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=38bdf8&labelColor=0f172a)
-![GitHub User's stars](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=facc15&labelColor=0f172a)
-
-</div>
-
----
-
-## 🌙 About Me
-
-<img align="right" width="330" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-🧠 I’m currently learning **Programming, Design, Motion and Creative Technology**  
-
-🎨 I work with **Visual Identity, Graphic Design, Motion Design and Digital Experiences**  
-
-🚀 I like creating things that look clean, useful and different  
-
-💻 Currently improving my skills in **Front-end, UI, Branding and Animation**  
-
-⚡ Fun fact: I love **pixel art, dark interfaces and futuristic visuals**  
-
-🎯 Goal: become a better creative professional every single day  
-
-<br clear="right"/>
+<p>
+  <a href="https://pinterest.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🌐 Follow Me
+## 🧰 Linguagens & Ferramentas que já usei
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-[![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)](SEU_BEHANCE)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,vscode,github,figma,c,cpp,java,dotnet,python,git,react,nodejs,ts,cs,mysql&theme=dark"/>
+</p>
 
 ---
 
-## 🧰 Languages & Tools I Have Placed My Hands On
+## ⚡ GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" height="180"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,git,github,vscode,figma,ps,ai,ae,pr,blender,notion&perline=9" />
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/PYTHON-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Figma](https://img.shields.io/badge/FIGMA-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-0f172a?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-0f172a?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-0f172a?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
-![Premiere](https://img.shields.io/badge/PREMIERE-0f172a?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=FACC15&text_color=E5E7EB"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FACC15&currStreakLabel=38BDF8"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FACC15&area=true&hide_border=true"/>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## ⭐ Repositório Mais Contribuído &nbsp;&nbsp;&nbsp; 🧙 Frase Dev Aleatória
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Snake animation" />
+**Contribuidor em:**
+- 🏆 [SEU-REPOSITORIO]
+- 👤 SEU-USUARIO
+- 📦 [OUTRO-REPO]
 
-</div>
+</td>
+<td valign="top" width="50%">
 
-> Observação: essa cobrinha precisa de uma automação no GitHub Actions para funcionar. Pode deixar aí e ativar depois.
+> "Às vezes, a implementação elegante é uma função. Não um método. Não uma classe. Apenas uma função."
+>
+> — John Carmack
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⭐ Top Contributed Repo
+## 💰 Me Apoie
 
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO_1">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=FACC15"/>
+<a href="https://www.buymeacoffee.com/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO_2">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=FACC15"/>
-</a>
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-## ☕ Support Me
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FACC15?style=for-the-badge&logo=buymeacoffee&logoColor=111827"/>
-</a>
-
-</div>
-
----
-
-## 🕹️ Pixel Zone
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:020617,50:0f172a,100:1e293b&text=CREATING%20THE%20FUTURE%20PIXEL%20BY%20PIXEL&fontColor=38BDF8&fontSize=22&fontAlignY=50"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Thanks for visiting my profile 🔥
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,50:1e293b,100:0f172a&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>

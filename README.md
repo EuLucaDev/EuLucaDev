@@ -73,88 +73,108 @@ Goal: Connect design + code + motion to build better digital experiences
 
 > Ferramentas e tecnologias que uso, estudo ou tenho interesse em dominar.
 
+<br>
+
+<div align="center">
+
+### 🎨 Design & Motion
+
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="60" height="60" alt="Photoshop" />
       <br><strong>Photoshop</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ai" width="55" height="55" alt="Illustrator" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="60" height="60" alt="Illustrator" />
       <br><strong>Illustrator</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ae" width="55" height="55" alt="After Effects" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="60" height="60" alt="After Effects" />
       <br><strong>After Effects</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pr" width="55" height="55" alt="Premiere Pro" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pr&theme=dark" width="60" height="60" alt="Premiere Pro" />
       <br><strong>Premiere</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="60" height="60" alt="Figma" />
       <br><strong>Figma</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva" />
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/canva.png" width="60" height="60" alt="Canva" />
       <br><strong>Canva</strong>
     </td>
   </tr>
+</table>
 
+<br>
+
+### 💻 Development
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" alt="HTML" />
       <br><strong>HTML</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" alt="CSS" />
       <br><strong>CSS</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60" alt="JavaScript" />
       <br><strong>JavaScript</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60" alt="Python" />
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" alt="Git" />
       <br><strong>Git</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
   </tr>
+</table>
 
+<br>
+
+### ⚙️ Tools & Frameworks
+
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" alt="VS Code" />
       <br><strong>VS Code</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=blender" width="55" height="55" alt="Blender" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=blender&theme=dark" width="60" height="60" alt="Blender" />
       <br><strong>Blender</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60" height="60" alt="Tailwind" />
       <br><strong>Tailwind</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" alt="React" />
       <br><strong>React</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60" alt="Node.js" />
       <br><strong>Node.js</strong>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="60" height="60" alt="Vercel" />
       <br><strong>Vercel</strong>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

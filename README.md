@@ -1,37 +1,46 @@
-<!-- INTRO / BANNER -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:151449,100:8A2BE2&height=260&section=header&text=LUCA%20PAIVA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Motion%20Designer%20%7C%20Creative%20Developer%20in%20Progress&descAlignY=58&descSize=18" alt="Luca Paiva Banner"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:151449,100:8A2BE2&height=260&section=header&text=LUCA%20PAIVA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Motion%20Designer%20%7C%20Creative%20Developer%20in%20Progress&descAlignY=58&descSize=17" 
+    alt="Luca Paiva Banner"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Design+Grafico+%2B+Motion+Design;Identidade+Visual+%2B+Criatividade;Aprendendo+Programacao+na+pratica;Pixel+Art+%2B+Dark+Mode+%2B+Code" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Design+Grafico+%2B+Motion+Design;Identidade+Visual+%2B+Criatividade;Aprendendo+Programacao+na+pratica;Pixel+Art+%2B+Dark+Mode+%2B+Code" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <div align="center">
 
-<a href="LINK_DO_SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="LINK_DO_SEU_YOUTUBE">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="LINK_DO_SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="LINK_DO_SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-151449?style=for-the-badge&logo=vercel&logoColor=white">
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-151449?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+&nbsp;&nbsp;
+<a href="mailto:studioflipin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 <br>
+
+<!-- ================= ABOUT ================= -->
 
 <p align="justify">
 Bem-vindo ao meu GitHub. Eu sou Luca, designer gráfico, designer de identidade visual e motion designer. Trabalho criando peças visuais, marcas, animações, mockups, apresentações e sistemas gráficos com foco em clareza, impacto e estética profissional.
@@ -43,89 +52,106 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 
 ---
 
+## About me 👾
+
+```txt
+> system.boot()
+> loading creative profile...
+
+Name: Luca Paiva
+Main area: Graphic Design, Visual Identity, Motion Design and Animation
+Studying: Programming, Web Development, Automation and AI
+Style: Dark, clean, pixel art, strong visual systems
+Goal: Connect design + code + motion to build better digital experiences
+
+> status: building my creative GitHub showcase
+```
+
+---
+
 ## My favorite tools and technologies ⚙️
 
 > Ferramentas e tecnologias que uso, estudo ou tenho interesse em dominar.
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ai" width="55" height="55" alt="Illustrator" />
+      <br><strong>Illustrator</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
-      <br>After Effects
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ae" width="55" height="55" alt="After Effects" />
+      <br><strong>After Effects</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
-      <br>Premiere
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=pr" width="55" height="55" alt="Premiere Pro" />
+      <br><strong>Premiere</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+      <br><strong>Figma</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
-      <br>Canva
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="55" height="55" alt="Canva" />
+      <br><strong>Canva</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" />
+      <br><strong>HTML</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-      <br>Blender
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" />
+      <br><strong>CSS</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br><strong>Python</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <br><strong>Git</strong>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br>Vercel
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=blender" width="55" height="55" alt="Blender" />
+      <br><strong>Blender</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
+      <br><strong>Vercel</strong>
     </td>
   </tr>
 </table>
@@ -133,8 +159,6 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 ---
 
 ## Creative stack 🎨
-
-> Áreas em que atuo ou estou desenvolvendo domínio.
 
 <table>
   <tr>
@@ -169,8 +193,6 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 
 ## Programming journey 💻
 
-> Minha evolução no código.
-
 <table>
   <tr>
     <td width="33%" align="center">
@@ -192,8 +214,6 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 
 ## Featured ideas 📌
 
-> Alguns projetos que pretendo publicar ou evoluir por aqui.
-
 <table>
   <tr>
     <td align="center" width="33%">
@@ -213,83 +233,71 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 
 ---
 
-## Github stats 📊
+## GitHub stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
+<details open>
+  <summary><strong>GitHub Profile Stats 💻</strong></summary>
   <br/>
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Luca's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=studioflipin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" height="192px"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Luca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studioflipin&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" height="192px"/>
-    </a>
+    <img
+      alt="Luca's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=EuLucaDev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff"
+      height="180"
+    />
+    <img
+      alt="Luca's Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuLucaDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff"
+      height="180"
+    />
   </p>
-
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary><strong>GitHub Streak 🔥</strong></summary>
   <br/>
 
-  [![Luca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=studioflipin&bg_color=0D1117&color=ffffff&line=8A2BE2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <p align="center">
+    <img 
+      src="https://streak-stats.demolab.com?user=EuLucaDev&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
+      alt="GitHub Streak" 
+    />
+  </p>
 </details>
 
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary><strong>Activity Graph 📈</strong></summary>
   <br/>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=studioflipin&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EuLucaDev&bg_color=0D1117&color=ffffff&line=8A2BE2&point=ffffff&area=true&hide_border=true"
+      alt="GitHub Activity Graph"
+    />
   </p>
-
 </details>
 
 <details>
-  <summary>Extra Pins 📌</summary>
+  <summary><strong>Profile Views 👁️</strong></summary>
   <br/>
 
   <p align="center">
-    <a href="https://github.com/studioflipin/SEU_REPOSITORIO_1">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studioflipin&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" />
-    </a>
+    <img 
+      src="https://komarev.com/ghpvc/?username=EuLucaDev&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2" 
+      alt="Profile Views" 
+    />
   </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/studioflipin/SEU_REPOSITORIO_2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studioflipin&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" />
-    </a>
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/studioflipin/SEU_REPOSITORIO_3">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studioflipin&repo=SEU_REPOSITORIO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" />
-    </a>
-  </p>
-
 </details>
-
----
-
-## Recent GitHub Activity ✅
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/studioflipin?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.visibility=all&activity.timestamps=true&config.timezone=America%2FFortaleza" alt="GitHub Metrics">
-</p>
 
 ---
 
 ## GitHub Profile Trophy 🏆
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=studioflipin&theme=discord&row=1&margin-w=40&no-bg=true&no-frame=true" alt="GitHub Trophy">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=EuLucaDev&theme=discord&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true"
+    alt="GitHub Trophy"
+  />
 </p>
 
 ---
@@ -297,7 +305,10 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 ## Pixel mood 🦖
 
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Dino animation">
+  <img 
+    src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" 
+    alt="Dino animation"
+  >
 </p>
 
 ---
@@ -310,3 +321,17 @@ Atualmente estou expandindo minha área criativa para o universo da programaçã
 > transformando ideias em projetos reais
 > unindo design + motion + código
 > construindo minha vitrine criativa no GitHub
+```
+
+---
+
+<p align="center">
+  <i>"Design é estratégia visual. Código é estrutura. Movimento é vida."</i>
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:151449,100:0D1117&height=120&section=footer" 
+    alt="Footer"
+  />
+</p>

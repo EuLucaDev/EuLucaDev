@@ -1,147 +1,126 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0D1117&text=Luca&fontColor=00E5FF&fontSize=56&desc=Design%20%7C%20Motion%20%7C%20Front-end%20%7C%20IA&descAlignY=72&descSize=18" />
+<!-- BANNER PRINCIPAL -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:111827,100:00E5FF&text=Luca%20Here%20🔥&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Designer%20Gráfico%20%7C%20Motion%20Designer%20%7C%20Front-end%20Creative%20%7C%20IA&descAlignY=58&descSize=15" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Designer+criativo+em+evolução;Motion+Design+%2B+Front-end;Criando+interfaces%2C+sistemas+e+experiências;Pixel+art+vibes+%2B+dark+mode" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Pixel+Art+%2B+Dark+Mode;Design+%2B+Motion+%2B+Code;Criando+interfaces%2C+sistemas+e+experiências;Construindo+meu+universo+criativo" />
 
 </div>
 
 ---
 
+<h2 align="center">Namaste 🙏 Eu sou Luca</h2>
+
 <div align="center">
 
-### `Designer Gráfico` • `Motion Designer` • `Front-end Creative` • `IA & Automação`
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Status-Building-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mode-Creative-9D4EDD?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## 🌙 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+- 🎨 Designer gráfico focado em **identidade visual, social media e direção visual**.
+- ⚡ Motion designer criando peças com **movimento, ritmo e impacto visual**.
+- 🕹️ Explorando **front-end criativo** com HTML, CSS e JavaScript.
+- 🤖 Estudando **IA, automações e agentes inteligentes**.
+- 🧩 Gosto de unir **visual bonito + estratégia + tecnologia**.
+- 🚀 Atualmente construindo projetos próprios para transformar ideias em sistemas reais.
+- ✨ Sempre buscando melhorar até ficar realmente bom.
+
+<br clear="right"/>
+
+<div align="right">
+
+### Follow me on:
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Behance-111111?style=for-the-badge&logo=behance&logoColor=1769FF" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
 </div>
 
 ---
 
-## 👾 Sobre mim
-
-Sou **Luca**, designer gráfico e motion designer em evolução para o universo de **front-end, interfaces, automações e inteligência artificial**.
-
-Meu foco é criar projetos que unam:
-
-```txt
-visual bonito + estratégia + movimento + tecnologia
-```
-
-Atualmente estou construindo minha base em programação para transformar ideias em sistemas, experiências visuais e ferramentas úteis.
-
----
-
-## 🧩 Áreas que estou explorando
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Design & Identidade
-
-- Identidade visual
-- Direção visual
-- Social media design
-- Apresentações
-- Materiais institucionais
-- Design para marcas
-
-</td>
-<td width="50%">
-
-### ⚡ Motion & Conteúdo
-
-- Motion design
-- Animações para redes sociais
-- Vídeos promocionais
-- Edição visual
-- Peças animadas
-- Storytelling visual
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🕹️ Front-end Criativo
-
-- HTML
-- CSS
-- JavaScript
-- Interfaces web
-- Dashboards
-- Layouts responsivos
-
-</td>
-<td width="50%">
-
-### 🤖 IA & Automação
-
-- Agentes com IA
-- Prompts estruturados
-- Automações pessoais
-- Sistemas com IA
-- Ferramentas para produtividade
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Ferramentas & Tecnologias
+## 🧰 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
 
-### Creative Stack
+### Creative Tools
 
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
-<img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-<img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
 
 <br/><br/>
 
-### Code Stack
+### Code Tools
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 <br/><br/>
 
-### Learning Mode
+### Learning / Exploring
 
-<img src="https://img.shields.io/badge/Front--end-00E5FF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Automação-00C853?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Pixel_Art-FFCC00?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Pixel%20Art-FFCC00?style=for-the-badge&logo=aseprite&logoColor=111111" />
+<img src="https://img.shields.io/badge/Motion%20Design-9D4EDD?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+<img src="https://img.shields.io/badge/IA-00C853?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automação-00E5FF?style=for-the-badge&logo=zapier&logoColor=111111" />
 
 </div>
 
 ---
 
-## 🕹️ Status atual
+## ⚡ GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Design-Active-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Motion-Active-9D4EDD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Front--end-Learning-FFCC00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IA-Exploring-00C853?style=for-the-badge" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=00E5FF&icon_color=FFCC00&text_color=C9D1D9" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false&background=0D1117&border=30363D&ring=00E5FF&fire=FFCC00&currStreakLabel=00E5FF" />
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D&title_color=00E5FF&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## 📦 Projetos em construção
+## 💻 Tech Stack
 
-> Ainda estou organizando meus projetos públicos. Em breve, esta área vai receber meus principais sistemas, estudos e experimentos criativos.
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/Premiere%20Pro-111111?style=flat-square&logo=adobepremierepro&logoColor=9999FF" />
+
+</div>
+
+---
+
+## 📦 Projects & Quests
 
 <table>
 <tr>
@@ -149,22 +128,22 @@ Atualmente estou construindo minha base em programação para transformar ideias
 
 ### 💸 Sistema Financeiro
 
-Dashboard para controle de gastos, cartões, faturas e relatórios visuais.
+Dashboard para controle de despesas, receitas, cartões, faturas e relatórios visuais.
 
 `HTML` `CSS` `JavaScript` `Dashboard`
 
-Status: `Em desenvolvimento`
+<img src="https://img.shields.io/badge/Status-In%20Progress-00E5FF?style=for-the-badge" />
 
 </td>
 <td width="50%">
 
 ### ⚽ Modo Carreira Realista
 
-Protótipo de jogo narrativo de futebol com escolhas livres, carreira e consequências.
+Protótipo de jogo narrativo de futebol brasileiro com escolhas, imprensa, carreira e consequências.
 
 `HTML` `CSS` `JavaScript` `Game`
 
-Status: `Protótipo`
+<img src="https://img.shields.io/badge/Status-Prototype-FFCC00?style=for-the-badge" />
 
 </td>
 </tr>
@@ -174,22 +153,22 @@ Status: `Protótipo`
 
 ### 🎨 Portfólio Visual
 
-Organização de projetos de identidade visual, motion design e direção criativa.
+Área para organizar identidades visuais, campanhas, motion design e projetos de direção visual.
 
-`Design` `Motion` `Branding`
+`Branding` `Motion` `Design`
 
-Status: `Em construção`
+<img src="https://img.shields.io/badge/Status-Building-9D4EDD?style=for-the-badge" />
 
 </td>
 <td width="50%">
 
 ### 🤖 Automações com IA
 
-Experimentos com agentes, prompts e ferramentas inteligentes para produtividade.
+Experimentos com agentes, prompts, automações pessoais e ferramentas inteligentes.
 
-`IA` `Automação` `Prompts`
+`IA` `Prompts` `Automation`
 
-Status: `Estudando`
+<img src="https://img.shields.io/badge/Status-Studying-00C853?style=for-the-badge" />
 
 </td>
 </tr>
@@ -197,56 +176,78 @@ Status: `Estudando`
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FFCC00&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FFCC00&currStreakLabel=00E5FF" />
-
-</div>
-
----
-
-## 🧠 Minha lógica de criação
+## 🧠 Creative Logic
 
 ```txt
 1. Entender o problema
-2. Criar uma estrutura clara
-3. Desenvolver uma estética forte
-4. Testar a experiência
-5. Melhorar até ficar realmente bom
+2. Criar uma direção visual forte
+3. Organizar a estrutura
+4. Desenvolver com clareza
+5. Testar, ajustar e melhorar
 ```
 
 ---
 
-## 🎮 Vibe
+## 🏆 Top Contributed Repo & Random Dev Quote
+
+<table>
+<tr>
+<td width="60%">
+
+### ⭐ Focus
+
+- 🎨 Design que comunica
+- ⚡ Motion que chama atenção
+- 🕹️ Interface com personalidade
+- 🤖 IA aplicada a produtividade
+- 🚀 Projetos próprios em evolução
+
+</td>
+<td width="40%">
+
+### 💬 Dev Quote
+
+> “Design não é só aparência.  
+> É como a ideia funciona, respira e se conecta.”
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎮 Pixel Zone
 
 <div align="center">
 
 ```txt
-██████╗ ██╗██╗  ██╗███████╗██╗         █████╗ ██████╗ ████████╗
-██╔══██╗██║╚██╗██╔╝██╔════╝██║        ██╔══██╗██╔══██╗╚══██╔══╝
-██████╔╝██║ ╚███╔╝ █████╗  ██║        ███████║██████╔╝   ██║   
-██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║        ██╔══██║██╔══██╗   ██║   
-██║     ██║██╔╝ ██╗███████╗███████╗   ██║  ██║██║  ██║   ██║   
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+██╗     ██╗   ██╗ ██████╗ █████╗ 
+██║     ██║   ██║██╔════╝██╔══██╗
+██║     ██║   ██║██║     ███████║
+██║     ██║   ██║██║     ██╔══██║
+███████╗╚██████╔╝╚██████╗██║  ██║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0D1117&text=Building%20my%20own%20creative%20universe&fontColor=00E5FF&fontSize=18" />
 
 </div>
 
 ---
 
-## 📫 Contato
+## ☕ Support Me
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFCC00?style=for-the-badge&logo=buymeacoffee&logoColor=111111" />
+</a>
+
+</div>
+
+---
+
+## 📫 Contact
 
 <div align="center">
 
@@ -272,12 +273,6 @@ Status: `Estudando`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-```txt
-// building my own creative universe
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:111827,100:0D1117" />
 
 </div>
